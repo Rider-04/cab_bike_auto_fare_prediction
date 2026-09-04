@@ -1,0 +1,514 @@
+source_dataset,category,vehicle_type,from_stand,to_location,fare_amount,fare_type
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,APP Bn. Gate,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,All India Radio,180,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Abo-Tani Colony,70,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Bank Tinali,400,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Bath basti,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Gompa Mandir,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,B.S.I Colony,800,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,B/Dewa Check Gate,200,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Circuit House,180,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Chimpu,250,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Directorate of sports,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,K.V No.,170,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Corporation Colony,180,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,CWC. VKV.,450,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Chimi village,40,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Chandra staff colony,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,C-Sector,40,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Division-IV,60,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,D.D.K Colony,40,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,D.N College,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Donyi Colony,40,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,D-Sector,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Dokum Colony,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Dony Polo VidyaBhawan,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,E.S.S Sector,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,F & G Sector,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,VivekVihar,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,G.S.I Colony,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Ganga lake,60,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Ganga village,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,GohpurTinali,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Holy Child School,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,H-Sector,400,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Hollongi,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Hr. Sec. School,80,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Hotel Ashoka,80,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Itafort,40,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,I.G park,80,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,ITBP Lower Gate,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,IRBN Barak,400,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Jote village,60,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Jully Village (2 km),80,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Don Bosco College,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,J.N Museum,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,KimePaka,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Lorputung,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Lobi village,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Legal Matrology,70,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,M.L.A Cottage,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Mowb-II,80,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Mowb-I,70,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Mithun Gate,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Marina Gas Agency,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,NitiVihar,200,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Naharlagun,60,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,NyokumLapang,300,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Nirjuli,350,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Poma village,70,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,P-Sector,40,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Police colony,60,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,R.G Polytechnic,80,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Raj Bhawan,350,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Rakap village,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Panchali,60,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Senki park,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Senki view,400,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Yupia D.C. Office,80,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Zoo gate,200,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Calvary School,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Zoological Survey of India,40,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Eco & Stat. Colony,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Jully Central Jail,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,JullyDatBasti Last,110,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,RWD Pipe Company,60,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Don Bosco College,80,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Senki View PHED,110,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,ChimpuPoltry Farm,600,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Rakap Village Jote,600,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,Railway Station,600,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Ganga Market Itanagar,ISBT Lekhi,600,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,APP Bn. Gate,110,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,All India Radio,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Abo-Tani Colony,40,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,R.K Mission Hospital,40,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Bath village,200,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,GompaMandir,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,B.S.I Colony,140,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,B.Dewa Check Gate,460,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Circuit House,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Chimpu Village,130,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Directorate of Sports,190,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,K.V No. 2,90,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Corporation Colony,90,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,CWC. VKV,120,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Chimi village,140,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Chandra Staff Colony,80,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,C-Sector,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Division-IV,80,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,D.D.K Colony,60,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,D.N College,90,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Donyi Colony,60,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,D.D.K Office,60,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,D-Sector,40,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Dokum Colony,70,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Dony Polo VidyaBhawan,90,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,E.S.S Sector,80,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,G.S.I Colony,90,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Ganga Lake,190,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Ganga village,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,GohpurTinali,90,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Holy Child School,70,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,H-Sector,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Hollongi,440,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Hr. Sec. School,40,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Hotel Ashoka,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Itafort,40,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,I.G Park,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,ITBP Lower Gate,120,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,IRBN Barak,110,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Jote village,440,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Jully village (2km),100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Don Bosco College,120,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,J.N Museum,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,KimePaka,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Kamir,340,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Lorputung,140,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Lobi village,110,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Legal Matrology,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Minister Bunglow,70,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Bunglow,90,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,M.L.A Cottage,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Mowb-II,70,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Mowb-I,60,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Mithun Gate,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Marina Gas Agency,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Nitivihar,160,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Naharlagun,30,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,NyokumLapang,250,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Nirjuli,20,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,'O' Point,40,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,P-Sector,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Police Colony (V/Vihar),100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,R.G Polytechnic,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Raj Bhawan,440,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Rakap village,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Panchali,90,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Senki park,120,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Senki view,350,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Yupia D.C Office,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Zoo gate,120,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Zoo staff colony,240,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Calvary School,120,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Zoological Survey of India,90,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Eco & Stat. Colony,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Jully Central Jail,90,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,JullyDatBasti Last Dat B.,160,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Jully RWD Pipe Company,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Jully Don BoscoCollge,130,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,Senki view PHED,120,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Bank Tinali,ChimpuPoltry Farm,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Nirjuli,270,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,NERIST Nirjuli,250,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Bage Tin-Ali Nirjuli,240,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Doimukh EAC. Off.,300,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Lekhi village,250,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Model village,200,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,A-Sector Naharlagun,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Youth Hostel Naharlagun,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Damsite St. Thomas School,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Yupia D.C Office,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Nyorch,300,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Tarajuli,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Borum,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Sood,80,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,2 K.M. PapuNallah,80,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,PapuNallah Bridge,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Papu Hill,60,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Press Colony,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,G.M Office/BTM,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Popu village,80,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Pachin village,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,S.I.B/Spun Pipe Colonies,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,D-Sector Naharlagun,80,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Polo Colony Naharlagun,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,C-Sector Naharlagun,60,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Transport Colony,200,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Prem Nagar (B-Sector),150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Karsingsa,400,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Dobam village,500,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,V/1 Banderdewa,500,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Check gate B/Dewa,500,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,P.T.C B/Dewa,600,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,New Police Colony,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Dokum Colony,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Ganga lake,700,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Chimpu village,600,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,R.G University,800,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,F-Sector Naharlagun,130,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,G-Sector Naharlagun,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Rakap Colony,200,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Itanagar O' Point Tinali,300,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Itanagar Bank Tinali,300,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Itanagar (A.P Secretariat),350,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Ganga Market,400,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Chandra Nagar,450,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Gohpur,600,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Zoo,500,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Ganga village,550,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Lobi village,400,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Mowb-II,420,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Senki park,480,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,Senki view,580,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,V.K.V Chimpu,550,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Barapani Naharlagun,K.V No-II,550,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Nirjuli,200,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,NERIST Nirjuli,180,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Bage Tin-Ali Nirjuli,170,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Doimukh EAC. Off.,250,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Lekhi village,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Model village,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,A-Sector Naharlagun,80,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Youth Hostel Naharlagun,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Damsite St. Thomas School,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Yupia D.C Office,400,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Nyorch,300,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Tarajuli,250,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Borum,250,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Sood,200,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,2 K.M. PapuNallah,180,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,PapuNallah Bridge,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Papu Hill,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Press Colony,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,G.M Office/BTM,120,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Popu village,200,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Pachin village,120,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Yupia Road Tin-Ali,100,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,S.I.B/Spun Pipe Colonies,70,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,D-Sector Naharlagun,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Polo Colony Naharlagun,80,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,C-Sector Naharlagun,60,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Transport Colony,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Prem Nagar (B-Sector),60,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Karsingsa,400,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Dobam village,450,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,V/1 Banderdewa,500,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Check gate B/Dewa,500,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,P.T.C B/Dewa,550,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,New Police Colony,60,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Dokum Colony,50,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Ganga lake,750,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Chimpu village,700,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,R.G University,250,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,F-Sector Naharlagun,60,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,G-Sector Naharlagun,70,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Rakap Colony,150,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Itanagar O' Point Tinali,350,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Itanagar Bank Tinali,350,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Itanagar (A.P Secretariat),350,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Ganga Market,400,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Chandra Nagar,450,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Gohpur,500,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Zoo,650,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Ganga village,500,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Lobi village,600,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Mowb-II,500,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Senki park,520,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Senki view,580,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,V.K.V Chimpu,680,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,K.V No-II,650,fixed
+aru_dto_2019,auto_rickshaw,auto_rickshaw,Super Market Naharlagun,Bharat Scout G' Guide,150,fixed
+aru_dto_2019,tempo_highway_per_seat,tempo,Ganga Tempo Stand,Vivek Vihar,10,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Ganga Tempo Stand,Chandranagar,20,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Ganga Tempo Stand,Gohpur tinali,20,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Ganga Tempo Stand,Chimpu,30,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Ganga Tempo Stand,Secretariat,10,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Ganga Tempo Stand,Bank tinali,20,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Ganga Tempo Stand,Mithun gate,30,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Naharlagun,Lekhi Village,20,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Naharlagun,Nirjuli,30,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Naharlagun,Karsingsa,40,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Naharlagun,Banderdewa,20,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Naharlagun,Yupia,50,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Naharlagun,Borum Village,40,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Naharlagun,Railway station,40,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Bage Tinali,Doimukh,20,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Naharlagun,Yupia tinali,20,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Naharlagun,Borum vill,30,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Naharlagun,Railway station,30,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Naharlagun,Nyorch vill,40,per_seat
+aru_dto_2019,tempo_highway_per_seat,tempo,Naharlagun,D.c office/dist court,50,per_seat
+aru_dto_2019,tempo_hire_charge,tempo,Banderdewa,Karsingsa,150,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Banderdewa,Nirjuli,200,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Banderdewa,Lakhi,220,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Banderdewa,Kankar Nallah,250,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Banderdewa,Papu Nallah,400,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Banderdewa,Naharlagun,300,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Banderdewa,Mithon Gate(Ita),600,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Banderdewa,Akash Deep,700,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Banderdewa,Gohpur,800,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Banderdewa,Doimukh,250,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Banderdewa,Yupia,700,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Banderdewa,Rono Hill,500,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Naharlagun,PTC,350,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Naharlagun,Harmoti,350,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Naharlagun,Nirjuli,150,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Naharlagun,Rono Hill,400,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Naharlagun,Doimukh,200,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Naharlagun,Yupia,300,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Naharlagun,Itanagar,300,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Chimpu,400,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Zoo,300,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Donyi Pollo School,200,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Chandranagar,300,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Central Jail,300,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Don Bosco College,300,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Ganga Lake,500,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Senki park,300,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Ashoka Hotel,100,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,AAPSU Office,150,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Vivek vihar,150,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,"Banglow No.5,6,7,8,9,10,15,16,17",150,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Bath Village,200,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Basar nallah,600,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,"Banglow No.1,2,3,4",100,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,CM Residence,150,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,CRPF Barrack Ganga Basti,150,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Calvary School,200,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Division-iv water tank,650,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Daria hill,200,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Doordarsahn office,100,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Don Bosco school,100,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Delhi Public School,250,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,D.N.College,150,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Dimukh,450,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Director Horticulture,250,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,F&G Sector,150,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,ESS Sector,150,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Ganga Village,200,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Gompa Mandir,100,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Hollongi,700,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Itafort,150,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Govt.Higher Sec.School,150,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,IRBN Colony Jullang,350,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,King Cup School,100,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Kula camp,450,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Kamnyir Jote,900,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Lobi,300,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Lower Puttang near zoo road,400,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,MLA Cottage,100,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Panchali,150,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,P Sector Durga puja mandir,100,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Polytechnic College,250,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Police Colony,250,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Poma,700,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Raj Bhawan Power House,150,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Railway Station,350,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,Sangaladin Sport School Chimpu,400,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,University,700,fixed
+aru_dto_2019,tempo_hire_charge,tempo,Mithun Gate,DC Office Yupia,600,fixed
+aru_dto_2019,tracker_highway_per_seat,tracker,Banderdewa,Karsingsa,20,per_seat
+aru_dto_2019,tracker_highway_per_seat,tracker,Banderdewa,Nirjuli,30,per_seat
+aru_dto_2019,tracker_highway_per_seat,tracker,Banderdewa,Lakhi Village,30,per_seat
+aru_dto_2019,tracker_highway_per_seat,tracker,Banderdewa,Naharlagun,40,per_seat
+aru_dto_2019,tracker_highway_per_seat,tracker,Naharlagun,Papunallah,30,per_seat
+aru_dto_2019,tracker_highway_per_seat,tracker,Naharlagun,Nakmandir,40,per_seat
+aru_dto_2019,tracker_highway_per_seat,tracker,Naharlagun,Mithun Gate,40,per_seat
+aru_dto_2019,tracker_highway_per_seat,tracker,Naharlagun,Bank tinali,40,per_seat
+aru_dto_2019,tracker_highway_per_seat,tracker,Naharlagun,Ganga,50,per_seat
+aru_dto_2019,tracker_highway_per_seat,tracker,Itanagar (Ganga),Jully Central Jail,20,per_seat
+aru_dto_2019,tracker_highway_per_seat,tracker,Itanagar (Ganga),Papunallah,30,per_seat
+aru_dto_2019,tracker_highway_per_seat,tracker,Itanagar (Ganga),Mithun Gate,20,per_seat
+aru_dto_2019,tracker_highway_per_seat,tracker,Itanagar (Ganga),Nag Mandir,20,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Ziro,350,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Koloriang,800,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Palin,500,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Raga,600,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Daporijo,800,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Bomdila,700,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Seppa,550,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Tawang,1400,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Likabali,300,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Basar,500,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Aalo,750,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Yingkiong,1000,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Pasighat,400,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Roing,800,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Tezu,1000,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Namsai,800,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Changlang,1000,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Khonsa,1000,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Longding,1000,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Sagalee,250,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Mengio,400,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Jote,70,per_seat
+aru_dto_2019,tata_sumo_maxicab_per_seat,tata_sumo,Itanagar,Basarnallah,100,per_seat
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,Chimpu,500,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,Lowarputung,500,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,Bath Basti,800,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,Jollang,500,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,Senki View,500,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,Senki park,400,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,Lobi,500,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,Donyipolo,500,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,Sangloputung,500,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,6 Kilo,500,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,Papunallah,600,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,Yupia,1100,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,Nirjuli,1100,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,Banderdewa,1500,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,Doimukh,1200,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,Lakhi basti,800,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,Naharlagun,800,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,Chandra nagar,300,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,O'Point,300,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Itanagar,Abotani colony,250,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Pachin,500,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Nirjuli,500,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Bank Tinali,600,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Karsingsa,700,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Banderdewa,700,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Chimpu,1000,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Chandanagar,900,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Ganga Market,800,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Gohpur,1000,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Jully Central Jail,500,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Pappu Village,400,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Pappu hill,400,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Lobi,1000,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Senki park,1000,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Panchali,900,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Senkiview,1000,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Niti vihar,900,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Donyipolo,1300,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Mowb-II,900,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,'O' Point,600,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Sangloputung,800,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Yupia,800,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Dorum village,600,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Railway station,600,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Nyoch village,700,fixed
+aru_dto_2019,auto_iris_carrier,auto_iris,Naharlagun,Doimuk,800,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Chimpu,700,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Lowarputung,700,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Bath Basti,1000,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Jollang,800,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Senki View,700,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Senkipark,600,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Lobi,700,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Donyipolo,700,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Sangloputung,800,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,6 Kilo,500,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Papunallah,800,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Yupia,1500,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Nirjuli,1500,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Banderdewa,2000,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Doimukh,1500,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Lakhi basti,1100,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Naharlagun,1000,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Hollongi,2000,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Balijan,3500,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Tarasso,5000,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Poma,2000,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Khamir,2000,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Jote,2500,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Bassarnalloh,4000,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Kimin,4500,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Ampoli,5000,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Itanagar,Sagalee,6000,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Pachin,700,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Nirjuli,700,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Bank Tinali,1000,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Karsingsa,1000,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Banderdewa,1500,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Chimpu,1300,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Chandanagar,1100,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Ganga Market,1000,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Gohpur,1100,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Jully,1100,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Pappu Village,700,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Pappu hill,700,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Lobi,1100,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Senki park,1200,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Panchali,1000,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Senkiview,1200,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Niti vihar,1000,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Donyipolo,1300,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Lowerputung,1400,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Mowb-II,1000,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,'O' Point,1000,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Borum,800,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Nyoch,800,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Railway station,800,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Yupia,1000,fixed
+aru_dto_2019,tata_mobile_hire,tata_mobile,Naharlagun,Tigdo,1000,fixed
+aru_dto_2019,public_bus_per_seat,bus,Itanagar,Nakmandir,15,per_seat
+aru_dto_2019,public_bus_per_seat,bus,Itanagar,Papunallah,20,per_seat
+aru_dto_2019,public_bus_per_seat,bus,Itanagar,Naharlagun,30,per_seat
+aru_dto_2019,public_bus_per_seat,bus,Itanagar,Lekhi,35,per_seat
+aru_dto_2019,public_bus_per_seat,bus,Itanagar,Nirjuli,40,per_seat
+aru_dto_2019,public_bus_per_seat,bus,Itanagar,Karsingsa,50,per_seat
+aru_dto_2019,public_bus_per_seat,bus,Itanagar,Banderdewa,70,per_seat
+aru_dto_2019,public_bus_per_seat,bus,Itanagar,Harmoti,80,per_seat
+aru_dto_2019,per_day_hire_charge,auto_rickshaw,Capital Complex,per_day_excl_fuel,1000,per_day
+aru_dto_2019,per_day_hire_charge,tempo,Capital Complex,per_day_excl_fuel,1500,per_day
+aru_dto_2019,per_day_hire_charge,tracker,Capital Complex,per_day_excl_fuel,2500,per_day
+aru_dto_2019,per_day_hire_charge,tata_sumo,per_12_hours,per_12hr_excl_fuel,3000,per_day
+aru_dto_2019,per_day_hire_charge,auto_iris,Capital Complex,per_day_excl_fuel,1500,per_day
+aru_dto_2019,per_day_hire_charge,tata_mobile,Capital Complex,per_day_excl_fuel,3000,per_day
+aru_dto_2019,per_day_hire_charge,truck,Capital Complex,per_trip_incl_fuel,3000,per_trip
+aru_dto_2019,per_day_hire_charge,truck,per_day,per_day_excl_fuel,4500,per_day
+aru_dto_2019,per_day_hire_charge,bus,per_day_27_seater,per_day_incl_fuel_12hrs,4200,per_day
+aru_dto_2019,per_day_hire_charge,bus,per_day_37_seater,per_day_incl_fuel_12hrs,5800,per_day
+aru_dto_2019,per_day_hire_charge,bus,per_day_47_seater,per_day_incl_fuel_12hrs,7300,per_day
