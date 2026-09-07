@@ -2,7 +2,11 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+*.csv
+anaconda_projects
+.ipynb_checkpoints
+.kaggle
+dataset
 # C extensions
 *.so
 
