@@ -1,0 +1,71 @@
+{
+  "target": "fare_amount",
+  "n_rows": 376725,
+  "n_features": 33,
+  "feature_columns": [
+    "distance_km",
+    "driver_rating",
+    "customer_rating",
+    "year",
+    "is_phase_imputed",
+    "distance_missing",
+    "is_weekend",
+    "hour_sin",
+    "hour_cos",
+    "month_sin",
+    "month_cos",
+    "day_sin",
+    "day_cos",
+    "dow_sin",
+    "dow_cos",
+    "pickup_freq",
+    "drop_freq",
+    "same_pickup_drop",
+    "source_dataset_bookings",
+    "source_dataset_indore_ola",
+    "source_dataset_ncr_events",
+    "source_dataset_rides_data",
+    "vehicle_type_bike",
+    "vehicle_type_cab",
+    "vehicle_type_cab_ac",
+    "vehicle_type_cab_suv",
+    "vehicle_type_premier_sedan",
+    "payment_group_cash",
+    "payment_group_upi",
+    "payment_group_wallet",
+    "season_post_monsoon",
+    "season_summer",
+    "season_winter"
+  ],
+  "scaled_columns": {
+    "distance_km": {
+      "mean": 20.48738437852545,
+      "std": 12.930931133667908
+    },
+    "driver_rating": {
+      "mean": 4.122364589554715,
+      "std": 0.4476892593093874
+    },
+    "customer_rating": {
+      "mean": 4.165559227553255,
+      "std": 0.4640445221034513
+    },
+    "year": {
+      "mean": 2024.2654456168293,
+      "std": 0.44157019978185796
+    },
+    "pickup_freq": {
+      "mean": 7.249219155574325,
+      "std": 1.8560567182218977
+    },
+    "drop_freq": {
+      "mean": 7.2492626514050835,
+      "std": 1.8566932608485804
+    }
+  },
+  "rows_dropped": {
+    "non_trip_rows": 1270,
+    "duplicate_rows": 7329
+  },
+  "status_label_map": null
+}

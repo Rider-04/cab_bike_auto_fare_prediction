@@ -1,0 +1,16 @@
+model                                      val R2  test R2     RMSE      MAE  note
+Baseline: mean per source                  0.0975   0.0980    435.5    309.6  
+Baseline: HistGradientBoosting             0.1205   0.1210    429.9    303.6  no location/date ids
+MLP A: base (no ids)                       0.1172   0.1194    430.3    305.0  best epoch 2
+MLP B: + location emb                      0.1151   0.1169    430.9    300.1  best epoch 2
+MLP C: + location + date emb               0.1173   0.1185    430.5    302.2  best epoch 2
+ENSEMBLE x3 of 'MLP C'                     0.1191   0.1202    430.1    302.6  
+
+per-source test R2 of the ensemble:
+   bengaluru_ola    n= 4,991  R2=-0.0013  RMSE=  569.5
+   bookings         n=15,496  R2=-0.0017  RMSE=  542.8
+   indore_ola       n=14,982  R2=+0.0885  RMSE=  325.4
+   ncr_events       n=15,319  R2=+0.0503  RMSE=  383.1
+   rides_data       n= 5,720  R2=-0.0029  RMSE=  276.0
+
+total time 94s | LOSS=mse | HIDDEN=(512, 256, 128) | DROPOUT=0.25 | LR=0.002
